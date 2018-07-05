@@ -1,4 +1,4 @@
 # Games
 
-1. Zigzg - Android Game
+1. Zigzag - Android Game
 
